@@ -14,4 +14,4 @@ STEP FOUR - (if its not already selected) Set the unity version to 2021.1.4f1
 STEP FIVE - Open it                                                                                                                         
 
 # Video Tutorial
-Coming Soon
+https://www.youtube.com/watch?v=amjks0XDbcc - there is no voice audio in this but I am planning to remake it soon

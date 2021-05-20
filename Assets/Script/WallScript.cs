@@ -35,6 +35,4 @@ public class WallScript : MonoBehaviour
             Debug.Log("Secret - Wall touched");
         }
     }
-
-    // Our first ever game
 }

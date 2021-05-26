@@ -25,8 +25,14 @@ public class WallScript : MonoBehaviour
 
         if (SceneManager.GetActiveScene().name == "Lvl4")
         {
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene("Lvl5");
             Debug.Log("Lvl4 - Wall touched");
+        }
+
+        if (SceneManager.GetActiveScene().name == "Lvl5")
+        {
+            SceneManager.LoadScene(0);
+            Debug.Log("Lvl5 - Wall touched");
         }
 
         if (SceneManager.GetActiveScene().name == "Secret")

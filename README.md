@@ -2,6 +2,8 @@
 Fourth Wall is our first game by us!
 This game is still in active development but I am making it open-source!
 
+(THIS IS OUTDATED, IF YOU WANT THE NEWEST VERSION, CHECK IT OUT HERE https://github.com/Reversed-Game-Studio/FourthWallBeta/)
+
 # Requirements
 - Unity
 - Any C# Editing Program

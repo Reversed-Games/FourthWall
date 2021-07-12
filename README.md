@@ -3,7 +3,8 @@ Fourth Wall is our first game by us!
 This game is still in active development but I am making it open-source!
 
 # Requirements
-- Unity version 2021.1.4f1
+- Unity
+- Any C# Editing Program
 
 # How to Open
 
